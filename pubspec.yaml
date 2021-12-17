@@ -63,6 +63,11 @@ flutter:
   assets:
     - assets/images/star.png
     - assets/images/ten.png
+    - assets/images/crown.png
+    - assets/images/football.png
+    - assets/images/popcorn.png
+    - assets/images/magnet.png
+
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
